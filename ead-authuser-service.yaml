@@ -42,7 +42,7 @@ ead:
 
 authuser:
   refreshscope:
-    name: Refresh Scope test
+    name: Refresh Scope test UPDATE!!!
 
 management:
   endpoints:
